@@ -1,0 +1,15 @@
+.hint{
+    width: 100%;
+    min-height: 50px;
+    background:rgba(255,229,100,.3);
+    font-size: 20px;
+    /* line-height: 50px; */
+    border-left: 5px solid #e7c000;
+    padding: 5px 10px;
+    color: #6b5900;
+}
+.extrude{
+    color: #b29400;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
